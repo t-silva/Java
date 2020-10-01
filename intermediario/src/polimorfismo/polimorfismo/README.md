@@ -3,9 +3,9 @@
 # Exercício 1.
 - Utilizar polimorfismo criando a seguinte estrutura:
   1) Torcedor: torce genéricamente:
-    1.1) Sãopaulino: Extende a classe Torcedor e sobrepõe método para torcer para o São Paulo
-    1.2) Corinthiano: Extende a classe Torcedor e sobrepõe método para torcer para o Corinthians
-    1.3) Santista: Extende a classe Torcedor e não sobrepõe método, torce genéricamente como Torcedor
+    - Sãopaulino: Extende a classe Torcedor e sobrepõe método para torcer para o São Paulo
+    - Corinthiano: Extende a classe Torcedor e sobrepõe método para torcer para o Corinthians
+    - Santista: Extende a classe Torcedor e não sobrepõe método, torce genéricamente como Torcedor
   
   2) Narrador: inicia a narração.
 
