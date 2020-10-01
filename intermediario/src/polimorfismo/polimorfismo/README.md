@@ -12,7 +12,10 @@
 
 
 # OBS: 
-    - Como classe pai, quando instanciado um torcedor, pelo polimorfismo, praticar mudança de comportamento (times) para torcedor.
-    - Como classe filha, quando instanciar um torcedor de algum time, tentar aplicar polimorfismo, notar que não é possível, pois 
+    - Como classe pai, quando instanciado um torcedor, pelo polimorfismo, praticar mudança 
+    de comportamento (times) para torcedor.
+    - Como classe filha, quando instanciar um torcedor de algum time, tentar aplicar polimorfismo, 
+    notar que não é possível, pois 
     o polimorfismo só vai valer para objetos instanciados na classe Pai.
-    - Tentar instanciar torcedores como Narradores (e vice-versa): Observar que não é possível pois não existe relação de herança.
+    - Tentar instanciar torcedores como Narradores (e vice-versa): Observar que não é possível pois
+     não existe relação de herança.
